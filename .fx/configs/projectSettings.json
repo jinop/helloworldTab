@@ -1,0 +1,24 @@
+{
+    "appName": "helloworldTab",
+    "projectId": "12216144-d7f1-4324-9a05-2c761f771104",
+    "version": "2.1.0",
+    "isFromSample": false,
+    "solutionSettings": {
+        "name": "fx-solution-azure",
+        "version": "1.0.0",
+        "hostType": "Azure",
+        "azureResources": [],
+        "capabilities": [
+            "Tab"
+        ],
+        "activeResourcePlugins": [
+            "fx-resource-frontend-hosting",
+            "fx-resource-identity",
+            "fx-resource-aad-app-for-teams",
+            "fx-resource-local-debug",
+            "fx-resource-appstudio",
+            "fx-resource-cicd"
+        ]
+    },
+    "programmingLanguage": "javascript"
+}
